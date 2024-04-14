@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178199766553",
+    "project_id": "financial-success-m8akub",
+    "storage_bucket": "financial-success-m8akub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178199766553:android:58456eb13617c478e32c88",
+        "android_client_info": {
+          "package_name": "com.mycompany.financialsuccess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyNlu5NvSV4GKtwl2sEuSM27f3kv6tmw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
